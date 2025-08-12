@@ -1,0 +1,30 @@
+{
+  "name": "POOF One-Product Theme",
+  "slug": "poof-one",
+  "version": "1.0.0",
+  "description": "Single-product RTL theme for POOF – optimized landing homepage with sticky buy button.",
+  "author": "Meshal & ChatGPT",
+  "license": "MIT",
+  "engines": {
+    "twilight": ">=2.0.0"
+  },
+  "settings": {
+    "colors": {
+      "brand_primary": "#050558",
+      "brand_accent": "#FF914D",
+      "text_base": "#0f172a",
+      "text_muted": "#475569",
+      "bg_base": "#ffffff",
+      "bg_alt": "#f8fafc"
+    },
+    "typography": {
+      "body_font": "Tajawal, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+      "heading_font": "Tajawal, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+      "logo_font": "Montserrat, Arial, sans-serif"
+    }
+  },
+  "product": {
+    "name": "POOF – بخاخ إزالة الروائح من الملابس",
+    "price": "69 ر.س"
+  }
+}
