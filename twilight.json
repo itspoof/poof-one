@@ -26,5 +26,18 @@
   "product": {
     "name": "POOF – بخاخ إزالة الروائح من الملابس",
     "price": "69 ر.س"
+  },
+  "components": {
+    "hero": {
+      "path": "src/views/components/hero.twig",
+      "label": "Hero",
+      "settings": {
+        "title": "POOF – بخاخ إزالة الروائح من الملابس",
+        "subtitle": "ودّع الروائح… واستمتع بانتعاش ناعم يدوم!",
+        "button_text": "اشترِ الآن",
+        "button_link": "/product/poof",
+        "bg_color": "#050558"
+      }
+    }
   }
 }
