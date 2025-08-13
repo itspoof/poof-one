@@ -1,0 +1,25 @@
+{
+    "settings": {
+        "name": "hero",
+        "label": "Hero",
+        "type": "object",
+        "default": {
+            "title": "خصم %50",
+            "description": "خصم لفترة محدودة",
+            "buttonText": "تسوق الآن",
+            "price": 69
+        }
+    },
+    "components": [
+        {
+            "type": "hero",
+            "settings": {
+                "title": "خصم %50",
+                "description": "خصم لفترة محدودة",
+                "buttonText": "تسوق الآن",
+                "price": 69
+            },
+            "path": "src/views/components/hero.twig"
+        }
+    ]
+}
